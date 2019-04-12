@@ -4,9 +4,8 @@
   예제) /home/alluser/dongok/run.sh
         /home/alluser/dancal/run.sh
 
-
 # 문제
-  1 부터 100000000 까지 덧샘.
+  1 부터 100,000,000 까지 덧샘.
    - 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + ??? = ??
 
 # 제약사항
