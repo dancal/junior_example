@@ -5,7 +5,10 @@
 	mkdir ~/works/???
 
 	cd works/???
+	git fork
 	git clone https://github.com/??id??/junior_example
+
+	git pull request
 
 # 문제
   1 부터 100,000,000 까지 덧샘.
