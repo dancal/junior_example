@@ -13,10 +13,7 @@
 
 # 제약사항
   - 개발 언어 자유
+  - 1 core
 
 # 출력 결과
-  START = YYYY-MM-DD H:I:S
   SUM = ?
-  ENDED = YYYY-MM-DD H:I:S
-
-
